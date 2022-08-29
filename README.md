@@ -1,7 +1,7 @@
 # Hello there; welcome 👋🏾
 
 
-I'm a Junior Software Engineer, Content Creator, I'm passionate about sharing knowlegde, exploring and building useful opensource coontents.
+I'm a Junior Software Engineer, Content Creator, I'm passionate about sharing knowlegde, exploring and building useful opensource contents.
 
 **Here's a quick summary about me**:
 
